@@ -7,7 +7,6 @@
 # }
 
 def select_winner(passengers)
-  passengers.each do |key, value|
-    puts "#{key}: #{value}"
+  passengers[]
 end
 end
